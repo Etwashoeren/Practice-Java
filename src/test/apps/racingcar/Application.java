@@ -1,4 +1,4 @@
-package test.wootecho.racingcar;
+package test.apps.racingcar;
 
 import java.util.*;
 

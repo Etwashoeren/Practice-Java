@@ -1,4 +1,4 @@
-package test.wootecho.caculator2.model;
+package test.apps.caculator2.model;
 
 import java.util.Scanner;
 
